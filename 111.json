@@ -17,9 +17,9 @@
 {"key":"洽洽影视","name":"机缘巧盒超清4","type":3,"api":"csp_AppGZ","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_JPYY","name": "机缘巧盒超清5","type": 3,"searchable": 1,"changeable": 1,"api": "csp_Jpyy","jar": "./lib/1020.jar","playerType": 1,"filterable": 1,"ext": ""},
 
-{"key":"金牌影视","name":"机缘巧盒超清7","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"素白白","name":"机缘巧盒超清8","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://subaibai.com"},
-{"key":"嫖嫖嫖","name":"机缘巧盒超清9","type":3,"api":"csp_XBPQ","ext":{"主页url":"https://www.gs4x7nq4.com/","播放请求头":"User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36","简介":"⚠️机缘巧盒特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>","嗅探词":".mp4#.m3u8#.flv#.m3u8?#.mp4?","影片类型":"tags\">&&director\">","影片状态":"bottom\">&&</div>","二次截取":"videoList\":\\[&&\\]","数组":"{&&}[不包含:伦理剧]","图片":"https+://ywxohs.com+obs.gduamoe.com&&\",","标题":"vodName\":\"&&\"","副标题":"vodRemarks\":\"&&\"","链接":"https://www.gs4x7nq4.com/detail/+vodId\":&&,","导演":"导演:</div>&&主演","主演":"主演:</div>&&别名","线路标题":"xxx","播放数组":"listitem\">&&info\">","播放列表":"<a&&</a>","倒序":"否","搜索url":"https://www.gs4x7nq4.com/vod/search/{wd}","搜索副标题":"class=\"boottom\"*<div>&&</div","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
+{"key":"金牌影视","name":"机缘巧盒超清6","type":3,"api":"csp_WebJP","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"素白白","name":"机缘巧盒超清7","type":3,"api":"csp_Subaibai","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://subaibai.com"},
+{"key":"嫖嫖嫖","name":"机缘巧盒超清8","type":3,"api":"csp_XBPQ","ext":{"主页url":"https://www.gs4x7nq4.com/","播放请求头":"User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/128.0.0.0Safari/537.36","简介":"⚠️机缘巧盒特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+</label>&&</div>","嗅探词":".mp4#.m3u8#.flv#.m3u8?#.mp4?","影片类型":"tags\">&&director\">","影片状态":"bottom\">&&</div>","二次截取":"videoList\":\\[&&\\]","数组":"{&&}[不包含:伦理剧]","图片":"https+://ywxohs.com+obs.gduamoe.com&&\",","标题":"vodName\":\"&&\"","副标题":"vodRemarks\":\"&&\"","链接":"https://www.gs4x7nq4.com/detail/+vodId\":&&,","导演":"导演:</div>&&主演","主演":"主演:</div>&&别名","线路标题":"xxx","播放数组":"listitem\">&&info\">","播放列表":"<a&&</a>","倒序":"否","搜索url":"https://www.gs4x7nq4.com/vod/search/{wd}","搜索副标题":"class=\"boottom\"*<div>&&</div","分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url":"https://www.gs4x7nq4.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
 {"key":"三六零弹幕","name":"机缘巧盒AYTM","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"ext":{"danmu":true}},
 {"key": "腾讯","name": "机缘巧盒┃TX","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/腾讯VIP.js"},
 {"key": "芒果","name": "机缘巧盒┃MG","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/芒果.js"},
@@ -36,9 +36,8 @@
 {"key":"全网影视","name":"机缘巧盒高清7","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.91qkw.com"},
 {"key":"csp_XYQHiker_农民影视","name":"机缘巧盒高清8","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/农民影视.json"}, 
 {"key":"csp_红狐狸影视","name":"机缘巧盒高清9","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-{"key":"夸克玩弹幕2","name":"机缘巧盒┃扫码4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site":"https://tv.yydsys.top","danmu":true}},
 {"key":"夸克玩弹幕3","name":"机缘巧盒┃扫码4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site":"http://labipan.com","danmu":true}},
-
+{"key": "玩偶","name": "机缘巧盒┃‍玩偶","type": 3, "api": "csp_Wogg","searchable": 1,"changeable": 1},
 {"key":"搜索弹幕","name":"机缘巧盒┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","danmu":true}},
 {"key":"米搜弹幕","name":"机缘巧盒┃米搜","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TV/.quark","site":"https://www.misou.fun","danmu":true}},
 {"key":"易搜弹幕","name":"机缘巧盒┃易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","danmu":true,"cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"}},
@@ -54,7 +53,7 @@
 [
 {"name":"-聚合-","type":3,"url":"Demo"},
 {"name": "-机缘巧盒-","type": 1,"url": "https://jx.m3u8.tv/jiexi/?url="},
-{"name": "--机缘巧盒--","type": 1,"url": "https://player.mrgaocloud.com/player/?url="},
+{"name": "--机缘巧盒--","type": 1,"url": "https://jf.wsp2.cn/api/?key=82c93ab9d0b9e7ceeace5d9b1daa087c&url="},
 {"name": "机","type":0,"url":"https://www.8090g.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
 {"name": "缘","type": 1,"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"]}},
 {"name": "巧","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
