@@ -1,6 +1,6 @@
 {"wallpaper":"https://tv.nxog.top/m//t/",
 "logo":"https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
-"spider":"./111.jar;md5;37d63deabba7a803bbc3947eaebe6d1e",
+"spider":"./1.jar;md5;03de898e3f99d08349bec421ebc8f506",
 "warningText":"tv提示:
 📢机缘巧盒机顶盒专用 
 📢终身免费长期维护
@@ -36,8 +36,7 @@
 {"key":"全网影视","name":"机缘巧盒高清7","type":3,"api":"csp_Quanwk","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.91qkw.com"},
 {"key":"csp_XYQHiker_农民影视","name":"机缘巧盒高清8","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/农民影视.json"}, 
 {"key":"csp_红狐狸影视","name":"机缘巧盒高清9","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}},
-{"key":"南瓜弹幕","name":"机缘巧盒高清10","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"糯米弹幕","name":"机缘巧盒高清11","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+{"key":"糯米弹幕","name":"机缘巧盒高清10","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"1905","name":"机缘巧盒老片","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"夸克玩弹幕3","name":"机缘巧盒┃扫码4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site":"http://labipan.com","danmu":true}},
 {"key":"玩弹幕1","name":"机缘巧盒┃扫码4K2","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TV/token.txt","cookie":"http://127.0.0.1:9978/file/TV/.quark","uc_cookie":"http://127.0.0.1:9978/file/TV/.uc","site":"http://woog.nxog.asia","danmu": true}},
