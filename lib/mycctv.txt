@@ -329,7 +329,7 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 橙子影视台(不定时),http://ali.hlspull.yximgs.com/live/asdfgczys111.flv
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
-两岸一家亲,#genre#
+两岸一家亲_6688,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
