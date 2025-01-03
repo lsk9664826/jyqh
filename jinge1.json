@@ -9,7 +9,7 @@
 {"name":"tv","type":0,"url":"./lib/mycctv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
 ],
 "sites": [
-{"key": "文才","name": "金歌家具家电城用户专用","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
+{"key":"豆瓣2","name":"📢金歌家电家具城用户专用","type":3,"api":"csp_Douban","searchable":0},
 {"key":"配置中心","name":"网盘配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 {"key": "文才","name": "超清1","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
 {"key":"热播影视","name":"超清2","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
