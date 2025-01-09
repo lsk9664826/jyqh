@@ -6,7 +6,7 @@
 📢终身免费长期维护
 📢智能AI已过滤广告",
 "lives":[
-{"name":"tv","type":0,"url":"./lib/mycctv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
+{"name":"tv","type":0,"url":"","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
 ],
 "sites": [
 {"key":"豆瓣2","name":"📢机缘巧盒机顶盒专用","type":3,"api":"csp_Douban","searchable":0},
