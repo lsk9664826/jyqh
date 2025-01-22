@@ -13,7 +13,9 @@
 "sites": [
 {"key":"豆瓣2","name":"📢机缘巧盒机顶盒专用","type":3,"api":"csp_Douban","searchable":0},
 {"key":"配置中心","name":"网盘配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
-{"key":"csp_woog","name":"机缘巧盒4K扫码","type":3,"api":"csp_woog","changeable":0,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;d424d7703c64f1d1fce64104186de896","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw0c.news","http://woog.nxog.asia","https://1.woog.xn--dkw.xn--6qq986b3xl"]}},
+{"key":"csp_woog","name":"机缘巧盒4K悠溪","type":3,"api":"csp_UuSs","changeable":0,"filterable":1,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737535398778/f0122.txt;md5;1aa6ec5b5545453d6850174fc1fcc78c","ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto"}},
+{"key":"csp_woog","name":"机缘巧盒4K夸克","type":3,"api":"csp_woog","changeable":0,"filterable":1,"jar":"https://tv.nxog.top/m/jar.php?id=og&ou=公众号欧歌app;md5;d424d7703c64f1d1fce64104186de896","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.xn--dkw0c.news","http://woog.nxog.asia","https://1.woog.xn--dkw.xn--6qq986b3xl"]}},
+ {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737535398778/f0122.txt;md5;1aa6ec5b5545453d6850174fc1fcc78c","ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.net/","danMu": "弹"}},    
 {"key": "皮皮虾","name": "机缘巧盒4K免扫码","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.ppxys.vip/api.php/app/"},
 {"key": "文才","name": "机缘巧盒超清1","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
 {"key":"热播影视","name":"机缘巧盒超清2","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
