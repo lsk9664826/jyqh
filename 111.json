@@ -11,6 +11,16 @@
 "sites": [
 {"key":"豆瓣2","name":"📢机缘巧盒机顶盒专用","type":3,"api":"csp_Douban","searchable":0},
 {"key":"配置中心","name":"网盘配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
+	    {
+      "key": "皮皮虾",
+      "name": "《免扫🔹虾4K》",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.ppxys.vip/api.php/app/"
+    },
 {"key": "文才","name": "机缘巧盒超清1","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
 {"key":"热播影视","name":"机缘巧盒超清2","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"瓜子影视1","name":"机缘巧盒超清3","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
@@ -54,7 +64,7 @@
 "parses":
 [
 {"name":"-聚合-","type":3,"url":"Demo"},
-{"name": "机缘巧盒","type": 1,"url": "http://jiexi.52ppx.top/lxjson.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"]}},
+{"name": "机缘巧盒","type": 1,"url": "http://jiexi.52ppx.top/lxjson.php?url=","ext": {"flag": ["PPXLG","皮皮虾4K"]}},
 {"name": "机","type":0,"url":"https://www.8090g.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
 {"name": "缘","type": 1,"url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"]}},
 {"name": "巧","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
