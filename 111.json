@@ -11,7 +11,7 @@
 "sites": [
 {"key":"豆瓣2","name":"📢机缘巧盒机顶盒专用","type":3,"api":"csp_Douban","searchable":0},
 {"key":"配置中心","name":"网盘配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
-{"key": "皮皮虾","name": "《免扫🔹虾4K》","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.ppxys.vip/api.php/app/"},
+{"key": "皮皮虾","name": "机缘巧盒虾4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.ppxys.vip/api.php/app/"},
 {"key": "文才","name": "机缘巧盒超清1","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
 {"key":"热播影视","name":"机缘巧盒超清2","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"瓜子影视1","name":"机缘巧盒超清3","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
