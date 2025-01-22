@@ -6,7 +6,11 @@
 📢终身免费长期维护
 📢智能AI已过滤广告",
 "lives":[
-{"name":"机缘巧盒直播","type":0,"url":"./lib/mycctv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
+{"name":"机缘巧盒直播","type":0,"url":"./lib/mycctv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"AKTV","type":0,"url":"http://aktv.top/live.m3u","playerType":1,"ua": "okhttp/3.12.13","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"APTV","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":1,"ua": "okhttp/3.12.13","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "livev2","type": 0,"url": "https://tv.iill.top/m3u/Gather","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "livev3","type": 0,"url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}	
 ],
 "sites": [
 {"key":"豆瓣2","name":"📢机缘巧盒机顶盒专用","type":3,"api":"csp_Douban","searchable":0},
