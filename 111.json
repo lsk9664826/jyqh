@@ -8,7 +8,7 @@
 "lives":[
 {"name":"机缘巧盒直播","type":0,"url":"./lib/mycctv.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"AKTV","type":0,"url":"http://aktv.top/live.m3u","playerType":1,"ua": "okhttp/3.12.13","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name":"APTV","type":0,"url":"https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":1,"ua": "okhttp/3.12.13","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+{"name":"APTV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":1,"ua": "okhttp/3.12.13","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites": [
 {"key":"豆瓣2","name":"📢机缘巧盒机顶盒专用","type":3,"api":"csp_Douban","searchable":0},
