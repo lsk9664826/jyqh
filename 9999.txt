@@ -831,6 +831,11 @@ mySUPER話當年,http://175.178.232.13:16888/api/htuiliu.php?exp=08cf2a85bb499c8
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 
 臺灣頻道,#genre#
+中视,http://211.72.174.95:8113/0.ts
+华视,http://211.72.174.95:8114/0.ts
+公视,http://211.72.174.95:8116/0.ts
+民视,http://211.72.174.95:8115/0.ts
+台视,http://211.72.174.95:8112/0.ts
 中视,http://175.178.232.13:16888/api/htuiliu.php?exp=08cf2a85bb499c832add0cc51fc18517&ip=106.226.94.180&id=d30564e480c5e37cf953ad13bc7d6095
 台视,http://175.178.232.13:16888/api/htuiliu.php?exp=08cf2a85bb499c832add0cc51fc18517&ip=106.226.94.180&id=fc2e11add071995226f8f4eea7d52268
 民视,http://iptv.4666888.xyz/iptv2A.php?id=55
@@ -840,9 +845,11 @@ HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 寰宇新闻http://pulltx-live.genshuixue.com:80/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-hyxw.flv
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 寰宇新闻,http://139.159.221.112/jr.php?id=6622491c5ef170ca7d0f01e694f72f37&l=0&a=jjwq
+民视新闻,http://211.72.174.95:8117/0.ts
 中天新闻http://pulltx-live.genshuixue.com:80/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-ztxwt.flv
 中天新闻http://139.159.221.112/jr.php?id=fc0c02777fe48801888bb977c552139a&l=0&a=jjwq
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+东森新闻,http://211.72.174.95:8138/0.ts
 中视新闻http://pulltx-live.genshuixue.com:80/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-zsxwt.flv
 三立新闻http://pulltx-live.genshuixue.com:80/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-slxw.flv
 TVBS新闻http://pulltx-live.genshuixue.com:80/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-TVBSxwt.flv
