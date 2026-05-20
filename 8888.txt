@@ -1149,6 +1149,7 @@ TVBS56台,http://pulltx-live.genshuixue.com:80/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka2
 民视新闻,http://pulltx-live.genshuixue.com:80/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-msxw.flv
 华视新闻,http://pulltx-live.genshuixue.com:80/live/lgCsR0O7TNF4l1D1N8QZrDC8Uka25r-hsxwt.flv
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 非凡新闻,http://iptv.4666888.xyz/iptv2A.php?id=44
 原视,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
 中视,http://175.178.232.13:16888/api/htuiliu.php?exp=08cf2a85bb499c832add0cc51fc18517&ip=106.226.94.180&id=d30564e480c5e37cf953ad13bc7d6095
